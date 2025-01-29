@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes.98691fb2-0e99-11ef-9114-145afc71fd0a.jpg</filename>
+	<path>C:\Users\user\OneDrive - Universiti Teknologi PETRONAS\UTP\App\Real Time Sign Language Detection\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\yes.98691fb2-0e99-11ef-9114-145afc71fd0a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>390</xmin>
+			<ymin>359</ymin>
+			<xmax>498</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>

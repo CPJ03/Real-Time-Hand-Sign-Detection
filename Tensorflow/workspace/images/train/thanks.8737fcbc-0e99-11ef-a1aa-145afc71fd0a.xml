@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>thanks.8737fcbc-0e99-11ef-a1aa-145afc71fd0a.jpg</filename>
+	<path>C:\Users\user\OneDrive - Universiti Teknologi PETRONAS\UTP\App\Real Time Sign Language Detection\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\thanks.8737fcbc-0e99-11ef-a1aa-145afc71fd0a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thanks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>335</ymin>
+			<xmax>517</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>
